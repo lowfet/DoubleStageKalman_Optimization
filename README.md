@@ -1,6 +1,6 @@
 ## The implementations of Optimization Double-Stage Kalman V1.0 ##
 
-The code is the implementations of Double-Stage Kalman, and the theory is from the paper named "A Double-Stage Kalman Filter for Orientation Tracking With an Integrated Processor in 9-D IMU"
+The code is the implementations of Optimization Double-Stage Kalman. It mainly solves the problem of magnetic inclination compensation. It's an optimization of Double-Stage Kalman.  
 
   * Support Website: http://www.lowfet.com
 
